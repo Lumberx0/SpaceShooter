@@ -10,6 +10,7 @@ public class EnemyDamageHandler : MonoBehaviour {
         if(other.tag == "Lazer")
         {
             health -= 2;
+			
         }
         Debug.Log(health);
 

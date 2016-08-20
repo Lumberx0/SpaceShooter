@@ -16,3 +16,21 @@
 /Users/alexanderdeleeuw/Desktop/Unity/Section 6 (LazerDefender)/Lazer Defender/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/alexanderdeleeuw/Desktop/Unity/Section 6 (LazerDefender)/Lazer Defender/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/alexanderdeleeuw/Desktop/Unity/Section 6 (LazerDefender)/Lazer Defender/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/obj/Debug/Assembly-CSharp.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/UnityEngine.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/UnityEditor.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Mono.Cecil.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/alexanderdeleeuw/GitHub/SpaceShooter/Lazer Defender/Temp/bin/Debug/Mono.Cecil.Mdb.dll
