@@ -34,9 +34,9 @@ public float projectileSpeed = 20f;
 
 
 		}
-		if (Input.GetKey(KeyCode.LeftArrow)) {
+		if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A)) {
 			transform.position += new Vector3(-speed * Time.deltaTime, 0, 0);
-		} else if (Input.GetKey(KeyCode.RightArrow)) {
+		} else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D)) {
 			transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
 
 		}
